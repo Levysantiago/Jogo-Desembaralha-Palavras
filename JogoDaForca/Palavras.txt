@@ -1,0 +1,60 @@
+1	AFKDOPISORGSGFC	Mamifero de quatro patas,identificado pela sujeira	PORCO	ANIMAL
+1	BVGHRTAAILPONXA	Ave de porte medio	GALINHA	ANIMAL
+1	GTVCRAMHTPRTAQR	Mamifero de quatro patas,come grama	VACA	ANIMAL
+1	XYZGTKJAPYTXZRO	Animal domestico peludo	GATO	ANIMAL
+1	PGERGTAPAIOAVRT	Animal que fala	PAPAGAIO	ANIMAL
+2	KWRLYTHDEUAPCXO	Mamifero carnivoro	LEAO	ANIMAL
+2	CHTYAHJCKLHOORR	Mamifero domestico e familiar	CACHORRO	ANIMAL
+2	FTGOECHOLLIXADA	Conhecido por procriar com muita facilidade	COELHO	ANIMAL
+2	EWDRMHCLPOEWAQB	Repteis rastejantes	COBRA	ANIMAL
+2	TYXSBCSURPROCHJ	Equino teimoso	BURRO	ANIMAL
+3	ESWDZRVGTBRTYALADD	Animal Herbivoro, nativo do continente africano	ZEBRA	ANIMAL
+3	FSASEORRASMIGXAGFDSDA	Sente o cheiro atraves de antenas	FORMIGA	ANIMAL
+3	XXRBVCCINSDSOCREERRTEOFSSDSTFSE	Animal grande e pesado	RINOCERONTE	ANIMAL
+3	VUBGRRRILHRRTUTUOTUU	Inseto Onivoro, terrestre e noturno	GRILO	ANIMAL
+3	PPCYAQWEBBPKLÇIVAHFFRHFGTYAYXZA	Animal roedor	CAPIVARA	ANIMAL
+1	AFMDOPITORGSGFE	E um meio de transporte urbano que circula sobre trilhos	METRO	TRANSPORTE
+1	HOXRBNPIXWSUXZA	Veiculo motorizado terrestre designado para o transporte de pessoas	ONIBUS	TRANSPORTE
+1	JTYMUICONSTZOWQ	E um veiculo de duas rodas e traccao traseira	MOTO	TRANSPORTE
+1	YOPDBCRXZACXZYU	Artefato capaz de flutuar e se deslocar sobre a agua	BARCO	TRANSPORTE
+1	RERWMAOVIZXANOR	Necessita de asas fixas e motores para se sustentar no ar	AVIAO	TRANSPORTE
+2	ERTFPYFYRAOMFZAXA	Iguaria feita de farinha de mandioca frita na manteiga ou na gordura	FAROFA	COMIDA
+2	ZATBGXRMVIGUTADLPETYUIRCXZO	Doce tipico da culinaria brasileira	BRIGADEIRO	COMIDA
+2	XATUINMERWAXCBTMA	Pequena fruta esferica nativa da regiao amazonica	ACAI	COMIDA
+2	RTPCXAMJRSKEVXCLOPI	Massa de farinha de trigo, com recheio salgado ou doce	PASTEL	COMIDA
+2	TOPERFTIAGVDQAJGTDLP	Prato preparado com feijoes	FEIJOADA	COMIDA
+3	WPRTSDFAZQVHJKLOIPEMJ	Doce preparado com palitos franceses	PAVE	COMIDA
+3	BTYIVROAPAEGDWQANGZA	Prato tipico da cozinha da Bahia	VATAPA	COMIDA
+3	TGDETHITRPIGSTYOBVXOI	Prato tipico italiano	RISOTO	COMIDA
+3	DTZAOWRTYRTILLHJIOAFRTS	Prato tipico mexicano	TORTILLAS	COMIDA
+3	VCRTNOXRBPOUAUTRXS	Sanduiche feito de pao frances	BAURU	COMIDA 
+1	AVDMARRNGTONFGDACO	Massa alimenticia com o formato de tubos curtos	MACARRAO	COMIDA
+1	SOTFFSZADFPMJIZTR	Massa fermentada de farinha de trigo e recheiada com ingredientes variados	PIZZA	COMIDA
+1	BSDWQTOSZASRBGHTORXZRLFRTERWQATGGTA	Inseto voador, que apresenta formas e cores variadas	BORBOLETA	ANIMAL
+1	XSLFDICDFOFDGPTTEREHRJONJTHGTE	Aeronave de asa rotativa	HELICOPTERO	TRANSPORTE
+1	WFJGKFLSMJHUTRSOIBTRZA	Um prato da culinaria japonesa	SUSHI	COMIDA
+2	DEOTOPIKQAKLYIGHA	Pais europeu localizado no sul do continente	ITALIA	LUGAR
+2	ACGHTLNIMHNWQRARW	O maior pais da Asia Oriental	CHINA	LUGAR
+2	FGAHMJLREKNHARTYUGRAR	Nacao idealizadora da Uniao Europeia	ALEMANHA	LUGAR
+2	SHJTREWAPNCAIOFZYRT	E um pais insular localizado na porcao leste do continente asiatico	JAPAO	LUGAR
+2	BCDADGHKLIPREWQADPL	E um pais situado na America do Sul	CHILE	LUGAR
+3	RTOCRAXLPOVFATCNHJI	Molusco gastropodes terrestre	CARACOL	ANIMAL
+3	YRTOPALPRAKHMNZXVBG	Artropodes da classe Arachnida	ARANHA	ANIMAL
+3	GTHKAYRWAPBETRCBFZLPOIM	Mamifero quadrupede pertencente a familia Cervidae	ALCE	ANIMAL
+3	TYAIOPVDCFSUYTRWAAP	Roedor semi-aquatico	CASTOR	ANIMAL
+3	TPIOSBHMLARYREWASMCV	Mamifero pertencente a familia Canidae	RAPOSA	ANIMAL
+1	FGNEPKYRAKLPIJWSMCK	Capital da Franca	PARIS	LUGAR
+1	GHRTUPLKSWBSKIMKA	Maior pais do mundo	RUSSIA	LUGAR
+1	BHIPLTEDAKLWAXSAN	Maior animal do mundo	BALEIA	ANIMAL
+1	HNTGDAPRTIEBNTKIFAJ	Pais do tango	ARGENTINA	LUGAR
+1	RFGRAFARWBWSRYUIWIL	O maior pais da America do Sul	BRASIL	LUGAR
+2	TRWAHJUPIQRAKGMJK	Sao aves carnivoras e possuem um sistema visual muito apurado	AGUIA	ANIMAL
+2	BPOTRHKARJVCPMKALK	Ruminante domesticado	CABRA	ANIMAL
+2	CPOHDGHNRMRLAIMGATVA	Artropodes ectoparasitas	CARRAPATO	ANIMAL
+2	GUETRPARODBLOIVGDF	Cidade conhecida por suas construcoes luxuosas	DUBAI	LUGARES
+2	HGRBTREUMNTOMSWA	Mamifero que possui uma especie de carapaca	TATU	ANIMAL
+3	GAFLPTJOTREACKJNL	Doce tradicional da Espanha	ALFAJOR	COMIDA
+3	FGTMEYREBSWNAUOGJHKSJNGHE	Mamifero marinho	MORSA	ANIMAL
+3	GOHRJCMKLAVSHJOLMJR	Ave inteligente	CORVO	ANIMAL
+3	HNTLMCBHAMLJJAWQCXZ	Membro da familia Canidae	CHACAL	ANIMAL
+3	HZXSOVWQEXVCRCTHFCRMKAREFIOT	Um veiculo que se apoia num colchao de ar	HOVERCRAFT	VEICULO
